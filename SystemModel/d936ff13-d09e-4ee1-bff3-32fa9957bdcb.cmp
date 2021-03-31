@@ -1,0 +1,10 @@
+{
+  "id": "d936ff13-d09e-4ee1-bff3-32fa9957bdcb",
+  "name": "Resources",
+  "type": "service",
+  "relationships": {
+    "depends-on": [
+      "b89992df-ca78-479a-9460-c35bc41a9415"
+    ]
+  }
+}

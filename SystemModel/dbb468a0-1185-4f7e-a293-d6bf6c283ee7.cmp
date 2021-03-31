@@ -1,0 +1,11 @@
+{
+  "id": "dbb468a0-1185-4f7e-a293-d6bf6c283ee7",
+  "name": "Cart",
+  "type": "ui",
+  "relationships": {
+    "depends-on": [
+      "a52881ef-e61c-4751-a9a4-ec026e4e2bf4"
+    ]
+  },
+  "parent": "9eb65d08-64fe-4844-a598-651611c48034"
+}

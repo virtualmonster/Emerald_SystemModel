@@ -1,0 +1,10 @@
+{
+  "id": "9eb65d08-64fe-4844-a598-651611c48034",
+  "name": "Emerald Store Front",
+  "type": "ui",
+  "relationships": {
+    "depends-on": [
+      "a52881ef-e61c-4751-a9a4-ec026e4e2bf4"
+    ]
+  }
+}

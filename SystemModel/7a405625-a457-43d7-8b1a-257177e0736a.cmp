@@ -1,0 +1,10 @@
+{
+  "id": "7a405625-a457-43d7-8b1a-257177e0736a",
+  "name": "Search",
+  "type": "service",
+  "relationships": {
+    "depends-on": [
+      "b89992df-ca78-479a-9460-c35bc41a9415"
+    ]
+  }
+}

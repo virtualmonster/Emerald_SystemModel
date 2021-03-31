@@ -1,0 +1,11 @@
+{
+  "id": "a52881ef-e61c-4751-a9a4-ec026e4e2bf4",
+  "name": "Ambassador",
+  "type": "service",
+  "relationships": {
+    "depends-on": [
+      "d936ff13-d09e-4ee1-bff3-32fa9957bdcb",
+      "7a405625-a457-43d7-8b1a-257177e0736a"
+    ]
+  }
+}
