@@ -2,6 +2,10 @@
   "id": "0904d34c-ed0c-41ce-afcd-3c61e7ec6012",
   "name": "Homepage",
   "type": "ui",
-  "relationships": {},
+  "relationships": {
+    "depends-on": [
+      "a52881ef-e61c-4751-a9a4-ec026e4e2bf4"
+    ]
+  },
   "parent": "9eb65d08-64fe-4844-a598-651611c48034"
 }
